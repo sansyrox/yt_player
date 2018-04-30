@@ -10,6 +10,7 @@
 
 ## Screenshots
 Below are some screenshots
+![Screenshot](img.png)
 
 ## Steps to Test the app
 * Clone this repo 
